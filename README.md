@@ -129,4 +129,4 @@ yolov5n.pt는 python폴더와 함께 있어야 합니다.
 
 해당 작업은 보드에 웹캠을 연결한 후, 보드에 설치된 vscode를 직접 설치하여 진행합니다.
 
-![KakaoTalk_20230721_141155374.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7e9eb1e9-3c4e-4daf-8cd3-675551797bc0/KakaoTalk_20230721_141155374.jpg)
+![Alt text](KakaoTalk_20230721_141155374.jpg)
